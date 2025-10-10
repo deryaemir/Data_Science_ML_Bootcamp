@@ -21,6 +21,7 @@
 # Pandas Series are one-dimensional and always contain index labels.
 
 import pandas as pd
+from sympy import false
 
 # Create a Pandas Series
 s = pd.Series([10, 77, 12, 4, 5])
